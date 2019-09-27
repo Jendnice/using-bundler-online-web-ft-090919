@@ -53,7 +53,7 @@ DEPENDENCIES
   hashie
   octokit (~> 2.0)
   pry
-  rspec!
+  rspec
   sinatra (= 1.4.4)
 
 BUNDLED WITH
