@@ -1,7 +1,7 @@
 source "https://rubygems.org" 
 
 group :default do 
-gem "rspec"
+ gem "rspec"
 end 
 
 gem "sinatra", "1.4.4"
