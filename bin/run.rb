@@ -1,6 +1,6 @@
 require_relative '../config/environment'
 
-RSPEC
+RSpec
 Hashie
 Sinatra
 Octokit
