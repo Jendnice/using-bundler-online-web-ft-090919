@@ -1,6 +1,6 @@
 source "https://rubygems.org" 
 
-group :default "rspec" do 
+group :default("rspec") do 
 gem "rspec"
 end 
 
